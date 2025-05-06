@@ -1,4 +1,4 @@
-# Algebra-Lienal-Pylatex
+# Algebra-Lineal-Pylatex
 Este es un código creado para la materia algebra lineal .
 # Descripcion 
 Matrices Algebra es una herramienta desarrollada en Python que permite:
